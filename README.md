@@ -12,7 +12,7 @@ After following these instructions, you should see something like this in your b
 
 
 ##Linux instructions
-Download [folder](https://github.com/iamfullofspam/YSDA_ICL/YSDA.zip) with notebooks and unzip it to your home directory
+Download [folder](https://github.com/iamfullofspam/YSDA_ICL/blob/master/YSDA.zip) with notebooks and unzip it to your home directory
 
 Install [docker](http://www.docker.com)
 Check that it works:
@@ -33,7 +33,7 @@ open link `localhost:8080` in your browser
 
 ## Mac OS instructions
 
-Download [folder](https://github.com/iamfullofspam/YSDA_ICL/YSDA.zip) with notebooks and unzip it to your home directory
+Download [folder](https://github.com/iamfullofspam/YSDA_ICL/blob/master/YSDA.zip) with notebooks and unzip it to your home directory
 
 Install [docker](http://www.docker.com) (boot2docker to be more precise). Run daemon:
 
@@ -60,7 +60,7 @@ open link `http://192.168.59.103:8080/` in your browser
 
 ## Windows instruction:
 
-Download [folder](https://github.com/iamfullofspam/YSDA_ICL/YSDA.zip) with notebooks and unzip it to your home directory
+Download [folder](https://github.com/iamfullofspam/YSDA_ICL/blob/master/YSDA.zip) with notebooks and unzip it to your home directory
 
 Install [docker](http://www.docker.com) (boot2docker to be more precise). 
 

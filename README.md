@@ -41,6 +41,7 @@ Install [docker](http://www.docker.com) (boot2docker to be more precise). Run da
     boot2docker start
     $(boot2docker shellinit)
 
+This will open new window, but you don't type any command there, continue working in your terminal. <br />
 Check docker works normally:
 
     docker run hello-world

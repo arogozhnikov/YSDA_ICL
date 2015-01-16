@@ -1,0 +1,17 @@
+2015-01-16 01:22:32.953 [NotebookApp] Created profile dir: u'/root/.ipython/profile_default'
+2015-01-16 01:22:32.954 [NotebookApp] WARNING | Starting all kernels in pylab mode is not recommended,
+    and will be disabled in a future release.
+    Please use the %matplotlib magic to enable matplotlib instead.
+    pylab implies many imports, which can have confusing side effects
+    and harm the reproducibility of your notebooks.
+2015-01-16 01:22:32.960 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+2015-01-16 01:22:32.997 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+2015-01-16 01:22:32.998 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+2015-01-16 01:22:33.014 [NotebookApp] Serving notebooks from local directory: /notebooks
+2015-01-16 01:22:33.014 [NotebookApp] 0 active kernels 
+2015-01-16 01:22:33.014 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8080/
+2015-01-16 01:22:33.015 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2015-01-16 01:22:44.268 [NotebookApp] Writing notebook-signing key to /root/.ipython/profile_default/security/notebook_secret
+2015-01-16 01:22:44.273 [NotebookApp] WARNING | Notebook examples/00-abc-ipython.ipynb is not trusted
+2015-01-16 01:22:44.810 [NotebookApp] Kernel started: 1f9df648-43e2-4cfe-84f0-ae4fa4c14af1
+2015-01-16 01:24:44.698 [NotebookApp] Saving notebook at /examples/00-abc-ipython.ipynb

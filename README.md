@@ -39,7 +39,7 @@ Install [docker](http://www.docker.com) (boot2docker to be more precise). Run da
 
     boot2docker init
     boot2docker start
-    $(boot2docker)
+    $(boot2docker shellinit)
 
 Check docker works normally:
 

@@ -6,8 +6,9 @@ needed software.
 
 After following these instructions, you should see something like this in your browser:
 
-<img src='https://geosci.uchicago.edu/~rtp1/PrinciplesPlanetaryClimate/Python/NotebookQuickstart/Dashboard.png' 
-height=400 />
+
+
+<img src='http://zverovich.net/files/ipython-dashboard.png'  />
 
 
 ##Linux instructions

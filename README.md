@@ -1,3 +1,8 @@
+#<a href='https://github.com/iamfullofspam/YSDA_ICL/wiki/Timetable-&-topics-of-lections' > Timetable and topics of lections</a> are published 
+
+
+
+
 # Installing software needed for the course
 
 

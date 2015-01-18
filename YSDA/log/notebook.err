@@ -1,17 +1,506 @@
-2015-01-16 01:22:32.953 [NotebookApp] Created profile dir: u'/root/.ipython/profile_default'
-2015-01-16 01:22:32.954 [NotebookApp] WARNING | Starting all kernels in pylab mode is not recommended,
+2015-01-17 21:44:37.559 [NotebookApp] Created profile dir: u'/root/.ipython/profile_default'
+2015-01-17 21:44:37.561 [NotebookApp] WARNING | Starting all kernels in pylab mode is not recommended,
     and will be disabled in a future release.
     Please use the %matplotlib magic to enable matplotlib instead.
     pylab implies many imports, which can have confusing side effects
     and harm the reproducibility of your notebooks.
-2015-01-16 01:22:32.960 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
-2015-01-16 01:22:32.997 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
-2015-01-16 01:22:32.998 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
-2015-01-16 01:22:33.014 [NotebookApp] Serving notebooks from local directory: /notebooks
-2015-01-16 01:22:33.014 [NotebookApp] 0 active kernels 
-2015-01-16 01:22:33.014 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8080/
-2015-01-16 01:22:33.015 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-2015-01-16 01:22:44.268 [NotebookApp] Writing notebook-signing key to /root/.ipython/profile_default/security/notebook_secret
-2015-01-16 01:22:44.273 [NotebookApp] WARNING | Notebook examples/00-abc-ipython.ipynb is not trusted
-2015-01-16 01:22:44.810 [NotebookApp] Kernel started: 1f9df648-43e2-4cfe-84f0-ae4fa4c14af1
-2015-01-16 01:24:44.698 [NotebookApp] Saving notebook at /examples/00-abc-ipython.ipynb
+2015-01-17 21:44:37.568 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+2015-01-17 21:44:37.602 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+2015-01-17 21:44:37.602 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+2015-01-17 21:44:37.622 [NotebookApp] Serving notebooks from local directory: /notebooks
+2015-01-17 21:44:37.622 [NotebookApp] 0 active kernels 
+2015-01-17 21:44:37.623 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8080/
+2015-01-17 21:44:37.623 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2015-01-17 21:59:01.681 [NotebookApp] Writing notebook-signing key to /root/.ipython/profile_default/security/notebook_secret
+2015-01-17 21:59:01.685 [NotebookApp] WARNING | Notebook /Hometask1.ipynb is not trusted
+2015-01-17 21:59:02.581 [NotebookApp] Kernel started: f8e71f6a-fef8-4acf-a484-cc0eb4659739
+2015-01-17 22:01:02.935 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:05:04.948 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:05:43.049 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:05:47.969 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:07:04.208 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:09:04.239 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:11:05.257 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:13:05.524 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:15:06.148 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:21:05.753 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:23:05.783 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:25:05.771 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:27:05.781 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:31:05.868 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:33:06.879 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:33:33.682 [NotebookApp] Creating new notebook in /
+2015-01-17 22:33:34.723 [NotebookApp] Kernel started: 96f392b4-840a-4356-bb21-7a497a948229
+2015-01-17 22:35:34.737 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:43:50.344 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:45:07.195 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:45:34.713 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:47:07.153 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:49:06.853 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:52:51.893 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:53:07.761 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-17 22:53:34.709 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:55:34.720 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:57:34.718 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 22:59:34.716 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:00:47.818 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:03:35.735 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:07:35.716 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:08:05.015 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:09:35.715 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:11:35.714 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:12:38.840 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:13:35.712 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:15:51.682 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:17:35.717 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:19:35.718 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-17 23:21:36.698 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:26:24.963 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-18 01:28:53.253 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:30:52.944 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:32:53.366 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:34:53.377 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:36:53.323 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:38:54.332 [NotebookApp] Saving notebook at /Hometask2.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+2015-01-18 01:40:31.811 [NotebookApp] Saving notebook at /Hometask2.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+2015-01-18 01:40:54.027 [NotebookApp] Saving notebook at /Hometask2.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+2015-01-18 01:42:54.088 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:44:54.459 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:46:47.494 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:46:54.091 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:47:17.307 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:47:22.852 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:47:47.582 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:48:54.731 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:50:54.453 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:51:26.368 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:52:54.544 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:54:54.578 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:56:25.103 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:56:54.216 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:57:29.845 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 01:58:55.616 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 02:02:55.691 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 02:04:55.682 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 02:06:23.562 [NotebookApp] WARNING | Notebook examples/00-abc-ipython.ipynb is not trusted
+2015-01-18 02:06:23.989 [NotebookApp] Kernel started: 1ecc0bc2-f21a-4470-a7de-d0424ae93170
+2015-01-18 02:06:55.365 [NotebookApp] Saving notebook at /examples/00-abc-ipython.ipynb
+2015-01-18 02:07:10.960 [NotebookApp] WARNING | Notebook examples/00-intro-ROOT_2.ipynb is not trusted
+2015-01-18 02:07:11.310 [NotebookApp] Kernel started: 4e695660-de15-4f91-9bc5-280bec475e40
+2015-01-18 02:07:36.446 [NotebookApp] WARNING | Notebook examples/00-intro-ROOT.ipynb is not trusted
+2015-01-18 02:07:36.673 [NotebookApp] Kernel started: afc4e7d2-2168-4379-b0eb-823fd38a5644
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+2015-01-18 02:09:11.396 [NotebookApp] Saving notebook at /examples/00-intro-ROOT_2.ipynb
+2015-01-18 02:09:36.707 [NotebookApp] Saving notebook at /examples/00-intro-ROOT.ipynb
+2015-01-18 02:11:36.739 [NotebookApp] Saving notebook at /examples/00-intro-ROOT.ipynb
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+[IPKernelApp] ERROR | Exception in message handler:
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 245, in dispatch_shell
+    handler(stream, idents, msg)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 479, in complete_request
+    txt, matches = self._complete(parent)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/kernel/zmq/ipkernel.py", line 790, in _complete
+    return self.shell.complete(c['text'], c['line'], cpos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/interactiveshell.py", line 2028, in complete
+    return self.Completer.complete(text, line, cursor_pos)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 904, in complete
+    custom_res = self.dispatch_custom_completer(text)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completer.py", line 836, in dispatch_custom_completer
+    res = c(event)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 254, in module_completer
+    return module_completion(event.line)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 237, in module_completion
+    return try_import(mod)
+  File "/usr/local/lib/python2.7/dist-packages/IPython/core/completerlib.py", line 163, in try_import
+    m = getattr(m, module)
+AttributeError: 'module' object has no attribute ''
+Info in <TCanvas::Print>: png file /tmp/tmp3FuZDE.png has been created
+Error in <TFile::TFile>: file ToyMC/toyMC_bck_mass.root does not exist
+2015-01-18 02:12:13.273 [NotebookApp] Kernel restarted: afc4e7d2-2168-4379-b0eb-823fd38a5644
+Info in <TCanvas::Print>: png file /tmp/tmpzSrrTy.png has been created
+Error in <TFile::TFile>: file ToyMC/toyMC_bck_mass.root does not exist
+2015-01-18 02:12:37.601 [NotebookApp] Saving notebook at /examples/00-intro-ROOT.ipynb
+Error in <TFile::TFile>: file toy_datasets/toyMC_bck_mass.root does not exist
+2015-01-18 02:13:37.438 [NotebookApp] Saving notebook at /examples/00-intro-ROOT.ipynb
+2015-01-18 02:16:57.044 [NotebookApp] WARNING | Notebook examples/00-intro-ROOT.ipynb is not trusted
+2015-01-18 02:17:07.088 [NotebookApp] Saving notebook at /examples/00-intro-ROOT.ipynb
+2015-01-18 02:17:20.991 [NotebookApp] WARNING | Notebook examples/03-howto-gridsearch(Higgs).ipynb is not trusted
+2015-01-18 02:17:21.671 [NotebookApp] Kernel started: 834ce93d-1c1e-4c64-9f49-58a3a40f360b
+2015-01-18 02:20:44.217 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 02:21:15.756 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:08:00.222 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-18 03:10:00.733 [NotebookApp] Saving notebook at /Hometask1.ipynb
+2015-01-18 03:12:31.729 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:22:31.403 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:24:31.844 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:26:31.957 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:28:31.492 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:30:31.516 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:32:31.549 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:34:31.575 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:38:32.076 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:39:51.631 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:42:40.794 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:44:40.811 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:46:40.955 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 03:48:40.871 [NotebookApp] Saving notebook at /Hometask2.ipynb
+2015-01-18 05:14:27.513 [NotebookApp] Kernel restarted: 834ce93d-1c1e-4c64-9f49-58a3a40f360b
+2015-01-18 05:16:29.264 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+2015-01-18 05:17:50.579 [NotebookApp] Kernel interrupted: 834ce93d-1c1e-4c64-9f49-58a3a40f360b
+2015-01-18 20:15:08.568 [NotebookApp] Created profile dir: u'/root/.ipython/profile_default'
+2015-01-18 20:15:08.570 [NotebookApp] WARNING | Starting all kernels in pylab mode is not recommended,
+    and will be disabled in a future release.
+    Please use the %matplotlib magic to enable matplotlib instead.
+    pylab implies many imports, which can have confusing side effects
+    and harm the reproducibility of your notebooks.
+2015-01-18 20:15:08.578 [NotebookApp] Using MathJax from CDN: https://cdn.mathjax.org/mathjax/latest/MathJax.js
+2015-01-18 20:15:08.613 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+2015-01-18 20:15:08.613 [NotebookApp] CRITICAL | WARNING: The notebook server is listening on all IP addresses and not using authentication. This is highly insecure and not recommended.
+2015-01-18 20:15:08.633 [NotebookApp] Serving notebooks from local directory: /notebooks
+2015-01-18 20:15:08.633 [NotebookApp] 0 active kernels 
+2015-01-18 20:15:08.634 [NotebookApp] The IPython Notebook is running at: http://[all ip addresses on your system]:8080/
+2015-01-18 20:15:08.634 [NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+2015-01-18 20:15:13.469 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+2015-01-18 20:15:13.475 [NotebookApp] Writing notebook-signing key to /root/.ipython/profile_default/security/notebook_secret
+2015-01-18 20:15:15.589 [NotebookApp] Kernel started: 55db1bdc-eda5-4201-bee5-1100655c6d3b
+2015-01-18 20:15:21.592 [NotebookApp] Kernel restarted: 55db1bdc-eda5-4201-bee5-1100655c6d3b
+2015-01-18 20:17:16.502 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+2015-01-18 20:21:16.518 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+2015-01-18 20:23:17.058 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+2015-01-18 20:24:43.789 [NotebookApp] Saving notebook at /examples/03-howto-gridsearch(Higgs).ipynb
+INFO:tornado.access:302 GET / (192.168.59.3) 0.66ms

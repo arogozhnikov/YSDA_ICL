@@ -1,4 +1,4 @@
-#<a href='https://github.com/iamfullofspam/YSDA_ICL/wiki/Timetable-&-topics-of-lections' > Timetable and topics of lections</a> are published 
+#<a href='https://github.com/iamfullofspam/YSDA_ICL/wiki/Timetable-&-topics-of-lectures' > Timetable and topics of lectures</a> are published 
 
 
 

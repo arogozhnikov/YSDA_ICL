@@ -15,8 +15,7 @@ After following these instructions, you should see something like this in your b
 Download [folder](https://github.com/iamfullofspam/YSDA_ICL/blob/master/YSDA.zip) (click 'view raw') 
 with notebooks and unzip it to your home directory
 
-Install [docker](http://www.docker.com)
-Check that it works:
+Install [docker](http://www.docker.com). Check that it works:
 
     docker run hello-world
    

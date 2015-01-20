@@ -1,7 +1,7 @@
 
-Practical assignment #1 is published in /YSDA/notebooks  
+Practical assignment #1 is published (/YSDA/notebooks, due to 22nd Jan)
 
-First practical class is published (in /Seminars) + notebook shown at class (in /YSDA)
+First practical class is published (in /Seminars) + notebook shown in class (in /YSDA/notebooks)
 
 First theoretical assignment is published (in /Homeworks, due to 21th Jan)
 

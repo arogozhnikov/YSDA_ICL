@@ -1,5 +1,9 @@
 __Jan 22__
+
 Theory task #2 is published (/Homeworks), it's due to Monday 26th.
+
+Seminar # 2 published (/Seminars) <br />
+Practical task #2 is published (/YSDA/notebooks), due to Saturday.
 
 __Jan 21__
 

@@ -1,3 +1,6 @@
+__Jan 22__
+Theory task #2 is published (/Homeworks), it's due to Monday 26th.
+
 __Jan 21__
 
 any questions about the course may be asked at icl.ml@yandex.ru <br />

@@ -1,3 +1,9 @@
+__Jan 23__
+
+Seminar #3 slides published (/Seminars).
+
+Please don't forget about second practical assignment! 
+
 __Jan 22__
 
 Theory task #2 is published (/Homeworks), it's due to Monday 26th.

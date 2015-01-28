@@ -1,3 +1,13 @@
+__Jan 28__
+
+All the lectures and seminars are published.
+
+Also the third <a href='http://nbviewer.ipython.org/github/iamfullofspam/YSDA_ICL/blob/master/YSDA/notebooks/Hometask2.ipynb'>
+practical assignment </a>  is available (predict the number of comments to blogpost)!
+
+Please consider filling the <a href='https://docs.google.com/forms/d/1kmNnQEiL3t0F7RfxbEaQWs33B9NqC034MzhMH3mWGiQ/viewform'>poll</a> about the course. 
+Thanks in advance!
+
 __Jan 23__
 
 Seminar #3 slides published (/Seminars).
